@@ -1,0 +1,5 @@
+Requirement already satisfied: requests in /home/ark/.local/lib/python3.8/site-packages (2.27.1)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /usr/local/lib/python3.8/dist-packages (from requests) (1.24.3)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/lib/python3/dist-packages (from requests) (2019.11.28)
+Requirement already satisfied: charset-normalizer~=2.0.0; python_version >= "3" in /home/ark/.local/lib/python3.8/site-packages (from requests) (2.0.12)
+Requirement already satisfied: idna<4,>=2.5; python_version >= "3" in /usr/local/lib/python3.8/dist-packages (from requests) (2.6)
